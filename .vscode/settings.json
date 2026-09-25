@@ -1,0 +1,6 @@
+{
+    "files.exclude": {
+        "**/.kilo": true,
+        "**/.vscode": true
+    }
+}
