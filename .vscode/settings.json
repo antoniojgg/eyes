@@ -2,5 +2,6 @@
     "files.exclude": {
         "**/.kilo": true,
         "**/.vscode": true
-    }
+    },
+    "git.ignoreLimitWarning": true
 }
